@@ -13,7 +13,7 @@ Sum();
 echo $b . "<br>";
 $d = 7;
 echo "Hôm nay là thứ " . $d . "<br>";
-$arr = array("chung cứt", "cường súc vật");
+$arr = array("chung ", "cường ");
 foreach ($arr as $ten) {
     echo $ten . "<br>";
 }
